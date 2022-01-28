@@ -1,0 +1,19 @@
+{
+    "name": "electron-application-test",
+    "displayName": "Electron Application Test",
+    "description": "Test for electron application library",
+    "version": "1.0.0",
+    "author": "Fortah - Jakub Hojnacki <jakubhojnacki@gmail.com>",
+    "date": "January 2022",
+    "type": "module",
+    "main": "./src/main.mjs",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jakubhojnacki/reg-exp-library.git"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "fortah-core-library": "file:lib/FortahCoreLibrary",
+        "fortah-electron-library": "file:lib/FortahElectronLibrary"
+    }
+}
