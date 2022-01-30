@@ -13,7 +13,7 @@
     },
     "license": "ISC",
     "dependencies": {
-        "fortah-core-library": "file:lib/FortahCoreLibrary",
-        "fortah-electron-library": "file:lib/FortahElectronLibrary"
+        "fortah-core-library": "file:./lib/FortahCoreLibrary",
+        "fortah-electron-library": "file:./lib/FortahElectronLibrary"
     }
 }
