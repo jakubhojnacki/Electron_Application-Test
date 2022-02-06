@@ -13,6 +13,6 @@ export class Application extends ElectronApplication {
     }
 
     run() {
-        console.info("Run");
+        super.run();
     }
 }
